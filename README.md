@@ -1,4 +1,4 @@
-# AB-Testing
+# A/B Testing
 Final project based on Udacity's [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) course.
 
 <img src="https://www.amazeemetrics.com/content/uploads/2016/12/ab-testing-blog.png" width="500" height="300"/>
