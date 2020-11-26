@@ -7,7 +7,7 @@ Final project based on Udacity's [A/B Testing](https://www.udacity.com/course/ab
 
 Students have a choice between enrolling in a free trial for the paid version or to access the course material for free (without coaching support or a verified certificate). With this experiment, Udacity tried to divert students to the free course material with a 'trial screener' if they did not input the minimum weekly commitment time to complete the course within the 14-days trial period.
 
-![screener](/Final Project_ Experiment Screenshot.png)
+![screener](/Final_Project_Experiment_Screenshot.png)
 
 
 ## Experiment Setup
