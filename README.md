@@ -1,4 +1,4 @@
-# A/B Testing
+# Free Trial Screener
 
 Final project based on Udacity's [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) course.
 
